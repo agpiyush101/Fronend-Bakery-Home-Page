@@ -5,10 +5,12 @@
  #### =>Add button can be used for adding any of the product in the cart.Initially cart count is zero it increases by increasing the add products.
 # Home Page View DeskTop
 ![image](https://user-images.githubusercontent.com/85208950/212735223-c71e9d5d-67a1-4e06-98fa-e85fcfcc2688.png)
-![image](https://user-images.githubusercontent.com/85208950/212735232-6e6e8d31-6640-4109-9729-313b1720478b.png)
-![image](https://user-images.githubusercontent.com/85208950/212735190-6f209543-b160-4bab-8faf-498b38bf25c8.png)
+![image](https://user-images.githubusercontent.com/85208950/212871153-54d8a6e9-8c00-45eb-93b2-b968e6f0b27f.png)
+![image](https://user-images.githubusercontent.com/85208950/212871173-255aeadc-ad69-4655-92a1-9258c39baa4e.png)
+
 # Home Page View on Mobile
 ![newimage](https://user-images.githubusercontent.com/85208950/212738532-efd36f30-e3da-4cfc-abb1-edd1199fcb9a.jpg)
+![image](https://user-images.githubusercontent.com/85208950/212735232-6e6e8d31-6640-4109-9729-313b1720478b.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
